@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+optuna
+deepchem
+rdkit-pypi
+selfies
+einops
+umap-learn
+torch
+torch-geometric
+torch-scatter
+torch-sparse
